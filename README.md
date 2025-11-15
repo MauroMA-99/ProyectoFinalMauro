@@ -238,19 +238,53 @@ coffee-shop-etl/
 
 ### 11. Repositorio en el databricks de desarrollo
 
+![I17](images/creacion_repositorio_databricks.png)
+
+![I18](images/creacion_repositorio_databricks2.png)
+
+![I19](images/creacion_repositorio_databricks3.png)
+
+![I20](images/creacion_repositorio_databricks4.png)
 
 
+### 12. Credencial Git
+
+![I21](images/creacion_git_credencial.png)
 
 
+### 13. Subida del archivo yaml al constructor
+
+![I22](images/subida_act_archivo_yaml.png)
+
+![I23](images/subida_act_archivo_yaml2.png)
 
 
+### 14. Habilitacion delta sharing del metastore
+
+![I24](images/habiltacion_metastore.png)
 
 
+### 15. App registration
+
+![I25](images/creacion_app_registration.png)
+
+![I26](images/creacion_app_registration2.png)
+
+![I27](images/creacion_app_registration3.png)
 
 
+### 16. Creacion del Key Vault
+
+![I28](images/creacion_key_vault.png)
+
+![I29](images/creacion_key_vault2.png)
 
 
+### 17. Creacion del Secret Scope
+
+![I30](images/Creacion_secret_scope.png)
 
 
+### 18. Creacion de los Secrets del Host y Dest en Github
 
 
