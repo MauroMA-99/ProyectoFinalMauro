@@ -130,7 +130,7 @@ jobs:
               "task_key": "Create_SQL",
               "description": "Ejecuta la creacion, de catalog, schemas, etc.",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/Creacion SQL",
+                "notebook_path": "/Workspace/proyectofinalmauro/CreacionSQL",
                 "source": "Workspace",
                 "base_parameters": {
                   "storageLocation": "storage"
@@ -227,7 +227,7 @@ jobs:
               "task_key": "Delta_sharing",
               "description": "Ejecuta el proceso de exportar la data de golden",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/Delta sharing",
+                "notebook_path": "/Workspace/proyectofinalmauro/DeltaSharing",
                 "source": "Workspace",
                 "base_parameters": {
                   "inputPath": "/data/input",
