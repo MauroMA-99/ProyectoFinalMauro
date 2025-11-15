@@ -238,7 +238,7 @@ coffee-shop-etl/
 
 ### 1️⃣1️⃣. Repositorio en el databricks de desarrollo
 
-![I17](images/creacion_repositorio_databricks.png)
+![I17](images/images/creacion_repositorio_databricks.png)
 
 ![I18](images/creacion_repositorio_databricks2.png)
 
