@@ -130,7 +130,7 @@ jobs:
               "task_key": "Create_SQL",
               "description": "Ejecuta la creacion, de catalog, schemas, etc.",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/CreacionSQL",
+                "notebook_path": "/py/scripts/main/CreacionSQL",
                 "source": "Workspace",
                 "base_parameters": {
                   "storageLocation": "storage"
@@ -144,7 +144,7 @@ jobs:
               "task_key": "ingest_movies",
               "description": "Ejecuta el proceso de extract con movies.csv",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/ingest_movies",
+                "notebook_path": "/py/scripts/main/ingest_movies",
                 "source": "Workspace",
                 "base_parameters": {
                   "inputPath": "/data/input",
@@ -165,7 +165,7 @@ jobs:
               "task_key": "ingest_ratings",
               "description": "Ejecuta el proceso de extract con ratings.csv",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/ingest_ratings",
+                "notebook_path": "/py/scripts/main/ingest_ratings",
                 "source": "Workspace",
                 "base_parameters": {
                   "inputPath": "/data/input",
@@ -186,7 +186,7 @@ jobs:
               "task_key": "transform",
               "description": "Ejecuta el proceso de transform (silver)",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/transform",
+                "notebook_path": "/py/scripts/main/transform",
                 "source": "Workspace",
                 "base_parameters": {
                   "inputPath": "/data/input",
@@ -206,7 +206,7 @@ jobs:
               "task_key": "load",
               "description": "Ejecuta el proceso de load (golden)",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/load",
+                "notebook_path": "/py/scripts/main/load",
                 "source": "Workspace",
                 "base_parameters": {
                   "inputPath": "/data/input",
@@ -227,7 +227,7 @@ jobs:
               "task_key": "Delta_sharing",
               "description": "Ejecuta el proceso de exportar la data de golden",
               "notebook_task": {
-                "notebook_path": "/Workspace/proyectofinalmauro/DeltaSharing",
+                "notebook_path": "/py/scripts/main/DeltaSharing",
                 "source": "Workspace",
                 "base_parameters": {
                   "inputPath": "/data/input",
