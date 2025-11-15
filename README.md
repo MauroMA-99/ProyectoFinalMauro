@@ -287,7 +287,34 @@ coffee-shop-etl/
 
 ### 1️⃣8️⃣. Creacion de los Secrets del Host y Dest en Github
 
+![I31](images/creacion_secrets_host_dest.png)
 
+![I32](images/creacion_secrets_host_dest2.png)
+
+
+### 1️⃣9️⃣. Subida del script3 del yaml 
+
+![I33](images/subida_yaml_script3.png)
+
+
+### 2️⃣0️⃣. Pull request: De construccion a main
+
+![I33](images/de_construccion_a_main.png)
+
+![I34](images/de_construccion_a_main2.png)
+
+![I35](images/de_construccion_a_main3.png)
+
+![I36](images/de_construccion_a_main4.png)
+
+![I37](images/de_construccion_a_main5.png)
+
+
+### 2️⃣1️⃣. Workflow en produccion
+
+![I38](images/verificacion_wf_produccion.png)
+
+![I39](images/verificacion_wf_produccion2.png)
 
 
 
