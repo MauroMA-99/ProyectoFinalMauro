@@ -174,8 +174,83 @@ coffee-shop-etl/
 
 ## 🚀 Instalación y Configuración
 
-### 1️⃣ Creacion del grupo de recursos
+### 1. Creacion del grupo de recursos
 
 ![I1](images/creacion_rg.png)
+
+
+### 2. Creacion del storage account
+
+![I2](images/creacion_storage_acount.png)
+
+![I3](images/creacion_storage_acount2.png)
+
+
+### 3. Creacion del access conector
+
+![I4](images/creacion_access_conector.png)
+
+![I5](images/creacion_access_conector2.png)
+
+
+### 4. Add  role Assignment
+
+![I6](images/Add_role_assigment.png)
+
+![I7](images/Add_role_assigment2.png)
+
+
+### 5. Containers
+
+![I8](images/Creacion_contenedores.png)
+
+
+### 6. Creacion Azure databricks: produccion y desarrollo
+
+![I9](images/creacion_ad-prod.png)
+
+![I10](images/creacion_ad-dev.png)
+
+![I11](images/creacion_ad-dev y prod.png)
+
+
+### 7. Creacion del cluster (en el databricks de desarrollo)
+
+![I12](images/creacion_cluster.png)
+
+
+### 8. Creacion del metastore (cuenta EXT)
+
+![I13](images/unitycalatlog-directorio.png)
+
+![I14](images/creacion_metastore.png)
+
+
+### 9. Creacion del repositorio en github
+
+![I15](images/Creacion_repositorio_github.png)
+
+
+### 10. Creacion del branch construccion
+
+![I16](images/creacion_rama_branch.png)
+
+
+### 11. Repositorio en el databricks de desarrollo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
