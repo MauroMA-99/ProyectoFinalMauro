@@ -19,11 +19,12 @@ Los archivos movies.csv y ratings.csv se ingieren en el nivel Bronze, se limpian
 
 El proyecto incluye deduplicación de columnas, enriquecimiento de datos (años, géneros, complejidad), categorización de ratings y creación de métricas agregadas, permitiendo habilitar dashboards en Power BI y análisis de machine learning basados en preferencias de usuarios y características de películas.
 
-## ▶️ WorkFlow resultado en produccion:
+### ▶️ WorkFlow en produccion:
+
+![I39](images/verificacion_wf_produccion2.png)
 
 ![I38](images/verificacion_wf_produccion.png)
 
-![I39](images/verificacion_wf_produccion2.png)
 
 
 ### ✨ Características Principales
