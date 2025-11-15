@@ -174,38 +174,38 @@ coffee-shop-etl/
 
 ## 🚀 Instalación y Configuración
 
-<h3 style="color:red;">1. Creación del grupo de recursos</h3>
+### 1️⃣. Creación del grupo de recursos
 
 ![I1](images/creacion_rg.png)
 
 
-### 2. Creacion del storage account
+### 2️⃣. Creacion del storage account
 
 ![I2](images/creacion_storage_acount.png)
 
 ![I3](images/creacion_storage_acount2.png)
 
 
-### 3. Creacion del access conector
+### 3️⃣. Creacion del access conector
 
 ![I4](images/creacion_access_conector.png)
 
 ![I5](images/creacion_access_conector2.png)
 
 
-### 4. Add  role Assignment
+### 4️⃣. Add  role Assignment
 
 ![I6](images/Add_role_assigment.png)
 
 ![I7](images/Add_role_assigment2.png)
 
 
-### 5. Containers
+### 5️⃣. Containers
 
 ![I8](images/Creacion_contenedores.png)
 
 
-### 6. Creacion Azure databricks: produccion y desarrollo
+### 6️⃣. Creacion Azure databricks: produccion y desarrollo
 
 ![I9](images/creacion_ad-prod.png)
 
@@ -214,29 +214,29 @@ coffee-shop-etl/
 ![I11](images/creacion_ad-dev y prod.png)
 
 
-### 7. Creacion del cluster (en el databricks de desarrollo)
+### 7️⃣. Creacion del cluster (en el databricks de desarrollo)
 
 ![I12](images/creacion_cluster.png)
 
 
-### 8. Creacion del metastore (cuenta EXT)
+### 8️⃣. Creacion del metastore (cuenta EXT)
 
 ![I13](images/unitycalatlog-directorio.png)
 
 ![I14](images/creacion_metastore.png)
 
 
-### 9. Creacion del repositorio en github
+### 9️⃣. Creacion del repositorio en github
 
 ![I15](images/Creacion_repositorio_github.png)
 
 
-### 10. Creacion del branch construccion
+### 1️⃣0️⃣. Creacion del branch construccion
 
 ![I16](images/creacion_rama_branch.png)
 
 
-### 11. Repositorio en el databricks de desarrollo
+### 1️⃣1️⃣. Repositorio en el databricks de desarrollo
 
 ![I17](images/creacion_repositorio_databricks.png)
 
@@ -247,24 +247,24 @@ coffee-shop-etl/
 ![I20](images/creacion_repositorio_databricks4.png)
 
 
-### 12. Credencial Git
+### 1️⃣2️⃣. Credencial Git
 
 ![I21](images/creacion_git_credencial.png)
 
 
-### 13. Subida del archivo yaml al constructor
+### 1️⃣3️⃣. Subida del archivo yaml al constructor
 
 ![I22](images/subida_act_archivo_yaml.png)
 
 ![I23](images/subida_act_archivo_yaml2.png)
 
 
-### 14. Habilitacion delta sharing del metastore
+### 1️⃣4️⃣. Habilitacion delta sharing del metastore
 
 ![I24](images/habiltacion_metastore.png)
 
 
-### 15. App registration
+### 1️⃣5️⃣. App registration
 
 ![I25](images/creacion_app_registration.png)
 
@@ -273,18 +273,24 @@ coffee-shop-etl/
 ![I27](images/creacion_app_registration3.png)
 
 
-### 16. Creacion del Key Vault
+### 1️⃣6️⃣. Creacion del Key Vault
 
 ![I28](images/creacion_key_vault.png)
 
 ![I29](images/creacion_key_vault2.png)
 
 
-### 17. Creacion del Secret Scope
+### 1️⃣7️⃣. Creacion del Secret Scope
 
 ![I30](images/Creacion_secret_scope.png)
 
 
-### 18. Creacion de los Secrets del Host y Dest en Github
+### 1️⃣8️⃣. Creacion de los Secrets del Host y Dest en Github
+
+
+
+
+
+
 
 
