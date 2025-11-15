@@ -15,7 +15,7 @@
 ## 🎯 Descripción
 
 📄 MovieRatings Analytics Pipeline es un proyecto de ingeniería de datos que implementa un flujo ETL completo en Databricks para procesar la información de películas y calificaciones de usuarios.
-Los archivos movies.csv y ratings.csv se ingieren en el nivel Bronze, se limpian y transforman en Silver, y luego se modelan en tablas Golden listas para análisis avanzado.
+Los archivos movies.csv y ratings.csv se ingieren en el conetenedor Raw y se cargan en el nivel Bronze, se limpian y transforman en Silver, y luego se modelan en tablas Golden listas para análisis avanzado.
 
 El proyecto incluye deduplicación de columnas, enriquecimiento de datos (años, géneros, complejidad), categorización de ratings y creación de métricas agregadas, permitiendo habilitar dashboards en Power BI y análisis de machine learning basados en preferencias de usuarios y características de películas.
 
