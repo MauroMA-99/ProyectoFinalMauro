@@ -146,9 +146,9 @@ coffee-shop-etl/
 │   └── 🐍 DeltaSharing.py             # Exportacion de la tabla movies_insight
 │
 ├── 📂 certificaiones/
-│   ├── 📄 DatabricksFundamentals.jpeg                # Fundamentos de Databricks
-│   ├── 📄 GenerativeAIFundamentals.jpg               # Fundamentos de AI Generativa
-│   └── 📄             # 
+│   ├── 📄 DatabricksFundamentals.jpeg                # Acreditacion de Fundamentos de Databricks
+│   ├── 📄 GenerativeAIFundamentals.jpg               # Acreditacion de Fundamentos de AI Generativa
+│   └── 📄 Platform Administrator.png                 # Acreditacion de Administrador de plataforma
 │
 └── 📄 README.md
 ```
