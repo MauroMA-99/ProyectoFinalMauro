@@ -38,7 +38,7 @@ El proyecto incluye la utilizacion del entorno de desarrollo y produccion, elimi
 
 ## 🏛️ Arquitectura
 
-### Flujo de Datos
+### ➡️ Flujo de Datos
 
 ```
 📄 CSV (Raw Data)
