@@ -219,7 +219,7 @@ coffee-shop-etl/
 
 ![I10](images/creacion_ad-dev.png)
 
-![I11](images/creacion_ad-dev y prod.png)
+![I11](images/creacion_ad-dev_prod.png)
 
 
 ### 7️⃣. Creacion del cluster (en el databricks de desarrollo)
@@ -324,6 +324,10 @@ coffee-shop-etl/
 
 ![I39](images/verificacion_wf_produccion2.png)
 
+
+### 2️⃣2️⃣. Data Fuente para el Power BI
+
+![I40](images/data_powerbi.png)
 
 
 
