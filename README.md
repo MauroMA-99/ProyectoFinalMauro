@@ -174,7 +174,7 @@ coffee-shop-etl/
 
 ## 🚀 Instalación y Configuración
 
-### 1. Creacion del grupo de recursos
+<span style="color:red;">### 1. Creacion del grupo de recursos
 
 ![I1](images/creacion_rg.png)
 
