@@ -303,7 +303,7 @@ jobs:
         
         echo "🔍 Validando la configuración del workflow creado..."
         
-        # Obtener lista de workflows y encontrar el recién creado
+        # Obtener lista de workflows y encontrar el recién creadoo
         workflows_list=$(curl -s -X GET \
           -H "Authorization: Bearer $DEST_TOKEN" \
           "$DEST_HOST/api/2.1/jobs/list")
