@@ -116,7 +116,7 @@ El proyecto incluye la utilizacion del entorno de desarrollo y produccion, elimi
 ## 📁 Estructura del Proyecto
 
 ```
-coffee-shop-etl/
+MovieRatings-etl/
 │
 ├── 📂 .github/
 │   └── 📂 workflows/
